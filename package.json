@@ -1,0 +1,19 @@
+{
+  "name": "cumpleanos-julio",
+  "version": "1.0.0",
+  "description": "web con galeria de videos para cumpleaños",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juramirezp/cumplea-os-julio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juramirezp/cumplea-os-julio/issues"
+  },
+  "homepage": "https://github.com/juramirezp/cumplea-os-julio#readme"
+}
