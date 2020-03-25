@@ -91,6 +91,12 @@ function cargarSorpresa(){
         <h4>Matias Dituro</h4>
         <button onClick="verVideo('https://www.youtube.com/embed/HM9z-y5u1r4')">Ver video</button>
         </div>
+        <div class="card">
+        <div class="picture" style="background-image:url('img/german.jpeg')">
+        </div>
+        <h4>German Lanaro</h4>
+        <button onClick="verVideo('https://www.youtube.com/embed/oljaB5M8Hp8')">Ver video</button>
+        </div>
         `;
 }
 
