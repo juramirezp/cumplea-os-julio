@@ -38,6 +38,11 @@ var videos=[
         video: 'https://www.youtube.com/embed/hPJu-tP54l4',
         nombre: 'Saul',
         foto:'saul.jpeg'
+    },
+    {
+        video: 'https://www.youtube.com/embed/lZ1Odzy72zs',
+        nombre: 'mami',
+        foto:'mami.jpeg'
     }
 ]
 
